@@ -19,7 +19,8 @@ from haruka import dispatcher, updater, TOKEN, WEBHOOK, SUDO_USERS, OWNER_ID, CE
 from haruka.modules import ALL_MODULES
 from haruka.modules.helper_funcs.chat_status import is_user_admin
 from haruka.modules.helper_funcs.misc import paginate_modules
-
+from haruka.modules.translations.strings import tld, tld_help
+from haruka.modules.connection import connected
 
 IMPORTED = {}
 MIGRATEABLE = []
