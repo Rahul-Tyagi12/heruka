@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/ZJRDroid/HarukaAya",
+  "repository": "https://github.com/Rahul-Tyagi12/heruka",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables!",
